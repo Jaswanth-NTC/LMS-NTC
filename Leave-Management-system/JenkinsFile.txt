@@ -12,7 +12,8 @@ pipeline {
 
         stage('Test') {
             steps {
-                // Add testing steps here if needed
+                // Placeholder for testing steps
+                echo 'Running tests...'
             }
         }
 
